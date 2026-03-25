@@ -3,3 +3,17 @@
   width: 175px;
   font-size: 25px;
 }
+
+
+.display {
+  width: 140px;
+  height: 70px;
+  background: #020617;
+  color: #22d3ee;
+  font-size: 30px;
+  text-align: right;
+  padding: 15px;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  overflow-x: auto;
+}
